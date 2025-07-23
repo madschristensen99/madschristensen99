@@ -1,10 +1,44 @@
-- 👋 Hi, I’m @madschristensen99
-- 👀 I’m interested in web3 and education
-- 🌱 I’m currently learning solidity
-- 💞️ I’m looking to collaborate on web3
-- 📫 How to reach me madschristensen99@icloud.com
+<!-- README.md -->
+# Robert Mads Christensen
 
-<!---
-madschristensen99/madschristensen99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+> Full-stack & protocol engineer — privacy, DeFi, AI-on-chain.
+
+---
+
+## 🔭 Currently shipping
+
+- **Fungerbil** – live XMR-USDC privacy swaps (Solidity, monero-ts)  
+- **Livepeer grant** – TikTok-native generative shorts where viewers control the story (LLM APIs, Livepeer)  
+- **Berachain** – DeFi primitives now live on mainnet (Solidity, TypeScript)
+
+---
+
+## 🏆 Recent wins
+
+| Hackathon | Prize | Project |
+|-----------|-------|---------|
+| EthGlobal SF 2024 | 🥇 Best AI Oracle | Intellijack – verifiable AI on-chain |
+| Encode AI Video 2024 | 🏆 1st place | Starforge – decentralized generative media |
+| Encode Web3-AI 2024 | 🥇 Top infra | Agent Dashboard – concurrent on-chain agents |
+
+---
+
+## 🧰 Tech I reach for
+
+| Languages | TypeScript • Solidity • Python • Java • C • Elixir |
+| Frameworks & libs | ethers.js • React • Node • Foundry |
+| DevOps | Docker • CI/CD • VPS • Heroku/Vercel |
+| AI/ML | LLM APIs • open-source agent frameworks |
+
+---
+
+## 📊 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madschristensen99&theme=transparent&hide_border=true&layout=compact)
+
+---
+
+## 📫 Contact
+
+- madschristensen99@icloud.com  
+- [twitter.com/madschr99](https://twitter.com/madschr99)

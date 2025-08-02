@@ -1,7 +1,7 @@
 <!-- README.md -->
 # Robert Mads Christensen
 
-> Full-stack & protocol engineer — privacy, DeFi, AI-on-chain.
+> Full-stack & DeFi engineer — privacy, DeFi, AI-on-chain.
 
 ---
 

@@ -40,4 +40,3 @@
 ## 📫 Contact
 
 - madschristensen99@icloud.com  
-- [twitter.com/madschr99](https://twitter.com/madschr99)

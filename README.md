@@ -12,14 +12,14 @@
 - **Berachain** – DeFi primitives now live on mainnet (Solidity, TypeScript)
 
 ---
-
 ## 🏆 Recent wins
 
 | Hackathon | Prize | Project |
 |-----------|-------|---------|
-| EthGlobal SF 2024 | 🥇 Best AI Oracle | Intellijack – verifiable AI on-chain |
-| Encode AI Video 2024 | 🏆 1st place | Starforge – decentralized generative media |
-| Encode Web3-AI 2024 | 🥇 Top infra | Agent Dashboard – concurrent on-chain agents |
+| Sharknado Cash | EthGlobal Prague | zk verified monero on EVM |
+| EthGlobal Cannes | 🥈 2nd place Flow Best Cross Chain DeFi | Loggerhead Finance |
+| Hyperliquid Seoul | — | Hyper Homo – encrypted DeFi strategies |
+| Token2049 Singapore | 🥇 1st place infra track (TON) | Regendary |
 
 ---
 

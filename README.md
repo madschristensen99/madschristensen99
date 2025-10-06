@@ -8,15 +8,14 @@
 ## 🔭 Currently shipping
 
 - **Fungerbil** – live XMR-USDC privacy swaps (Solidity, monero-ts)  
-- **Livepeer grant** – TikTok-native generative shorts where viewers control the story (LLM APIs, Livepeer)  
-- **Berachain** – DeFi primitives now live on mainnet (Solidity, TypeScript)
+- **Loar** – TikTok-native generative shorts where viewers control the story (LLM APIs, Livepeer)  
 
 ---
 ## 🏆 Recent wins
 
 | Hackathon | Prize | Project |
 |-----------|-------|---------|
-| EthGlobal Prague | Berachain | Sharknado Cash - zk verified monero on EVM |
+| EthGlobal Prague | Best Use of LSP's | Sharknado Cash - zk verified monero on EVM |
 | EthGlobal Cannes | 🥈 2nd place Flow Best Cross Chain DeFi | Loggerhead Finance |
 | Hyperliquid Seoul | 4th Overall | Hyper Homo – encrypted DeFi strategies |
 | Token2049 Singapore | 🥇 1st place infra track (TON) | Regendary |

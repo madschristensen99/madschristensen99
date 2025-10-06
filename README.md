@@ -7,7 +7,7 @@
 
 ## 🔭 Currently shipping
 
-- **Fungerbil** – live XMR-USDC privacy swaps (Solidity, monero-ts)  
+- **Fun Gerbil** – live XMR-USDC privacy swaps (Solidity, monero-ts)  
 - **Loar** – TikTok-native generative shorts where viewers control the story (LLM APIs, Livepeer)  
 
 ---

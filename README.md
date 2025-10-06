@@ -16,9 +16,9 @@
 
 | Hackathon | Prize | Project |
 |-----------|-------|---------|
-| Sharknado Cash | EthGlobal Prague | zk verified monero on EVM |
+| EthGlobal Prague | Berachain | Sharknado Cash - zk verified monero on EVM |
 | EthGlobal Cannes | 🥈 2nd place Flow Best Cross Chain DeFi | Loggerhead Finance |
-| Hyperliquid Seoul | — | Hyper Homo – encrypted DeFi strategies |
+| Hyperliquid Seoul | 4th Overall | Hyper Homo – encrypted DeFi strategies |
 | Token2049 Singapore | 🥇 1st place infra track (TON) | Regendary |
 
 ---

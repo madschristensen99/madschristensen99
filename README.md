@@ -18,7 +18,7 @@
 | EthGlobal Prague | Best Use of LSP's | [Sharknado Cash](https://ethglobal.com/showcase/sharknado-cash-du1qh) - zk verified monero on EVM |
 | EthGlobal Cannes | 🥈 2nd place Flow Best Cross Chain DeFi | [Loggerhead Finance](https://ethglobal.com/showcase/loggerhead-finance-npoty) |
 | Hyperliquid Seoul | 4th Overall | Hyper Homo – encrypted DeFi strategies |
-| Token2049 Singapore | 🥇 1st place infra track (TON) | Regendary |
+| Token2049 Singapore | 🥇 1st place infra track (TON) | Regendary - Encryped Prediction Market Seeding|
 
 ---
 

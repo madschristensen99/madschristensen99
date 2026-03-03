@@ -7,8 +7,7 @@
 
 ## 🔭 Currently shipping
 
-- **Zero XMR** – live XMR-USDC privacy swaps (Solidity, monero-ts)  
-- **Loar** – TikTok-native generative shorts where viewers control the story (LLM APIs, Livepeer)  
+- **Wrapsynth** – Monero DeFi bridge
 
 ---
 ## 🏆 Recent wins

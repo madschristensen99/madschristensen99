@@ -16,7 +16,7 @@
 |-----------|-------|---------|
 | Monad Blitz EthDenver 2026 | 🥉 3rd place overall | [Rush Trade](https://github.com/madschristensen99/rushTrade) - tap trade minute prediction market |
 | Token2049 Singapore | 🥇 1st place infra track (TON) | Regendary - Encryped Prediction Market Seeding|
-| Hyperliquid Seoul | 4th Overall | Hyper Homo – encrypted DeFi strategies |
+| Hyperliquid Seoul | 4th Overall | [Hyper Homo – encrypted DeFi strategies](https://fungerbil.com/hyperhomo/)|
 | EthGlobal Cannes | 🥈 2nd place Flow Best Cross Chain DeFi | [Loggerhead Finance](https://ethglobal.com/showcase/loggerhead-finance-npoty) |
 | EthGlobal Prague |Best Use of LSP's| [Sharknado Cash](https://ethglobal.com/showcase/sharknado-cash-du1qh) - zk verified monero on EVM |
 
